@@ -1,0 +1,36 @@
+Finchy's Advanced Guide to Scientific Primitive Material Operations
+
+This is an in depth explanation of Tinker's Construct (or TCon) tools and effective utilization of them.
+
+Chapter 0: Words and Vocabulary --some of these won't make since before you've read the rest
+
+	Blocks and Stations
+Part Builder: Block used to make parts out of materials
+Pattern Table: Block used to make patterns for the Part Builder	Tool Station: Block used to make tools out of parts, as well as add modifiers and replace parts
+Pattern Chest: A block that stores patterns and casts for convenience.
+
+	Tools and Tool Stats
+Tool: Item that breaks blocks or hurts enemies
+Modifier: Some effect that the tool has
+Material: The thing that a tool part is made of
+Material Modifier: A modifier that comes with the material
+Attack Damage: The damage that a tool deals, or a part provides innately
+Mining Speed: The speed with which a tool breaks blocks
+Mining Level: Determines what a pickaxe or shovel can mine
+Durability: How long a tool can be used before breaking, and needing to be repaired
+Effective Durability: How long a tool can be used, taking into account the chance for durability to not be consumed
+Modifier Slots: The capacity for a tool to accept modifiers
+Mining XP: The capacity for a tool to increase its mining level
+
+	Smelting and Heavy Smithing
+Smeltery: Large structure that processes molten metals
+Pattern: Used to craft a pattern for use in a Part Builder
+Cast: Used to cast tool parts in a Smeltery
+Extruder: Electric machine that can produce tool parts oof advanced materials
+Fluid solidifer: Electric machine that can produce crossbow bolt casts of advanced materials
+	
+Chapter 1: Tools, and making them.
+
+	1.1: Why use TCon?
+A TCon tool is a big undertaking relative to simply making an iron pickaxe, but with a little bit of care and attention, can be much more powerful. The tools are generally stronger, faster, and will never break permanently. They can be modified and improved without ever having to craft a new one, allowing your tools to be permanent over the course of an entire game. They're also much cheaper, both in the amount of materials used to affect the world, and in the cost to actually make and improve them.
+	1.2: A tool is a general word for 1 of 5 general kinds of thing that you can make in a Tool Station. A tool can be, broadly: A simple tool, that only breaks one block at a time; A heavy tool, that breaks either a 3x3 or a 3x3x3 of blocks at a time; A melee weapon, that hits enemies and does a bunch of damage; A ranged weapon, that hits enemies from far away and does a bunch of damage; Finally, ammunition, which is generally consumed by a ranged weapon. These are the main things you want to use from TCon, so they're what this guide is going to focus on.
