@@ -1,0 +1,5 @@
+All assets for the mod "Botania" are owned by Vazkii, they did all the work. The assets from this mod are provided under the Botania license.
+All assets for the mod "Blood Magic: Alchemical Wizardry" are owned by WayOfTime, they did all the work. The assets from this mod are provided under the Creative Commons Attribution 4.0 International license.
+The only thing that I did was port over the internal names associated with them for an earlier version.
+These assets are not owned by me, and are not beholden to the license of my resource packs.
+Again, DO NOT USE THESE under the license that I have provided!
