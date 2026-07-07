@@ -27,8 +27,8 @@ Mining XP: The capacity for a tool to increase its mining level
 Smeltery: Large structure that processes molten metals
 Pattern: Used to craft a pattern for use in a Part Builder
 Cast: Used to cast tool parts in a Smeltery
-Extruder: Electric machine that can produce tool parts oof advanced materials
-Fluid solidifer: Electric machine that can produce crossbow bolt casts of advanced materials
+Extruder: Electric machine that can produce tool parts of advanced materials
+Fluid solidifier: Electric machine that can produce crossbow bolt casts of advanced materials
 	
 Chapter 1: Tools, and making them.
 
@@ -37,7 +37,7 @@ Chapter 1: Tools, and making them.
 	
 	1.2: Crafting tools out of basic materials.
 	The first step to making a tool is learning what parts it's made of. A pickaxe, for example, is made of a tool rod, a part binding, and a pickaxe head. To make these parts, you need a pattern that corresponds to it. In a stencil table, you can turn a blank pattern into the pattern you'd like by selecting the corresponding part icon on the sides of the GUI. This pattern will allow you to craft parts with it infinitely.
-	Holding shift while hovering over a pattern allows you to see what it can be used to make in a part builder. In GT:NH, stone parts are used only for crafting, and can't be used to make parts. Flint and bone are both readily available and make strong tools in the early game. When you have the parts, you can then move them into a tool station. By clicking one of the tools on the left in the tool station, you can see the locations where you have to place the parts. By putting the parts where the silloughette goes, you can craft a Tinker's Construct tool.
+	Holding shift while hovering over a pattern allows you to see what it can be used to make in a part builder. In GT:NH, stone parts are used only for crafting, and can't be used to make parts. Flint and bone are both readily available and make strong tools in the early game. When you have the parts, you can then move them into a tool station. By clicking one of the tools on the left in the tool station, you can see the locations where you have to place the parts. By putting the parts where the silhouette goes, you can craft a Tinker's Construct tool.
 	
 	1.3: Tool and using them.
 	A tool is a general word for 1 of 5 general kinds of thing that you can make in a Tool Station. A tool can be, broadly: A simple tool, that only breaks one block at a time; A heavy tool, that breaks either a 3x3 or a 3x3x3 of blocks at a time; A melee weapon, that hits enemies and does a bunch of damage; A ranged weapon, that hits enemies from far away and does a bunch of damage; Finally, ammunition, which is generally consumed by a ranged weapon. These are the main things you want to use from TCon, so they're what this guide is going to focus on. Of note, is that only some of the tools are available to craft in a tool station.
@@ -57,7 +57,7 @@ Chapter 1: Tools, and making them.
 	
 	2.3: Electric smithing
 	When you get to MV, you get access to the MV extruder. Among many other things you can do with it, you can also extrude metals through TCon casts without having to use the smeltery. This allows you to make parts easier, but also opens up many new materials for use, including very advanced ones. Some materials take higher voltages to produce, and others are available at MV but require ridiculous amounts of time without overclocking.
-	The fluid solidifer is used in a similar way for making crossbow bolts out of advanced materials.
+	The fluid solidifier is used in a similar way for making crossbow bolts out of advanced materials.
 	
 	This concludes the very basics to making tools in Tinker's Construct. Everything after this is more encyclopedic in nature.
 	
